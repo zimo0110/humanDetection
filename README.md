@@ -1,7 +1,7 @@
 # humanDetection
 
 ## 1 line
-We efficiently count the number of people (gay trannies) in a room 😡
+We efficiently count the number of people
 
 # Requirements
 1. ultralytics 

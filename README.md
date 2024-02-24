@@ -1,7 +1,7 @@
 # humanDetection
 
 ## 1 line
-We efficiently count the number of people
+We efficiently count the number of people (trans people (mentally ill)) in a room 😡
 
 # Requirements
 1. ultralytics 

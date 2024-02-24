@@ -1,11 +1,2 @@
 from ultralytics import YOLO
-
-# Load a model
-model = YOLO("yolov8n.yaml")  # build a new model from scratch
-model = YOLO("yolov8n.pt")  # load a pretrained model (recommended for training)
-
-# Use the model
-model.train(data="coco128.yaml", epochs=3)  # train the model
-metrics = model.val()  # evaluate model performance on the validation set
-results = model("https://ultralytics.com/images/bus.jpg")  # predict on an image
-path = model.export(format="onnx")  # export the model to ONNX format
+print(f"""number of gay people in the room: {YOLO('yolov8l.pt').predict("images/img3.jpg", save=True, classes=[0,], conf=0.5, iou=0.2, line_width=2)[0].boxes.shape[0]}""")

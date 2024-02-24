@@ -20,5 +20,8 @@ We efficiently count the number of people (trans people (mentally ill)) in a roo
 1. [ar1011](https://github.com/ar1011)
 2. [zimo0110](https://github.com/zimo0110)
 
-<img src="asses/ass1.jpg" width="500" height="400">
+<p align="center">
+  <img src="asses/ass1.jpg" width="500" height="400">
+</p>
+
 

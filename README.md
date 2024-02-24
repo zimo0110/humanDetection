@@ -10,10 +10,13 @@ We efficiently count the number of people (gay trannies) in a room 😡
 1. yolov8l.pt
 2. yolov8n.pt 
 3. yolov8s.pt
-4. yolov8x.p
+4. yolov8x.pt
 
 ## HOW TO RUN
  - place one foot in front of the other, quickly
  - repeat until you reach your destination
 
-# Developers
+## Developers
+1. [ar1011](https://github.com/ar1011)
+2. [zimo0110](https://github.com/zimo0110)
+

@@ -1,7 +1,12 @@
 # humanDetection
 
 ## 1 line
-We efficiently count the number of people (trans people (mentally ill)) in a room 😡
+We efficiently count the number of people in a room
+
+<p align="center">
+  <img src="asses/web.png" width="400px">
+</p>
+
 
 # Requirements
 1. ultralytics 
